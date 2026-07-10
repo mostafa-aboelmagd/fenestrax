@@ -63,6 +63,10 @@ This plaltform was developed under the supervision of **Astute Imaging**, whose 
 
 ![Measurement & Annotation Tools](./screenshots/twoD_annotation.gif)
 
+- **Interactive 2D Manipulation** including zooming, panning, rotating, and **synchronized brightness and contrast manipulation**
+
+![2D Manipulation](./screenshots/twoD_manipulation.gif)
+
 - **Interactive 3D Manipulation** including changing the opacity for better visualization of the arteries
 
 ![3D Manipulation](./screenshots/threeD_interaction.gif)
