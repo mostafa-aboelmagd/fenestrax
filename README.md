@@ -87,6 +87,10 @@ This plaltform was developed under the supervision of **Astute Imaging**, whose 
 
 ![Centerline Editing](./screenshots/centerline_edit.gif)
 
+- **Surgical Planning Report Generation** as an exportable **PDF report** containing the automated measurements and surgeon modifications, enabling **easy sharing and documentation** of the final surgical plan.
+
+![Report](./screenshots/report.png)
+
 ## Acknowledgement
 
 We would like to express our sincere gratitude to our project supervisors:
